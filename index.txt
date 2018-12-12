@@ -1,2 +1,4 @@
 aiueo
 git commit --amend
+git merge
+コンフリクト
